@@ -2,8 +2,12 @@
 bayesian linear regression for finance
 
 
-# setup with git 
+# setup with command line
+
+```
 git clone https://github.com/quangkhoi1228/bayesian_linear_regression_for_finance.git
+
+cd bayesian_linear_regression_for_finance/
 
 pip3 install virtualenv
 virtualenv envs
@@ -18,5 +22,4 @@ pip install tensorflow
 pip install pymc3
 pip install seaborn
 pip install xlrd
-
-
+```
