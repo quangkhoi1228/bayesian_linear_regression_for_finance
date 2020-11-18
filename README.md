@@ -1,0 +1,2 @@
+# bayesian_linear_regression_for_finance
+bayesian linear regression for finance
